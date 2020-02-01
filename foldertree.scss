@@ -1,0 +1,37 @@
+element.style {
+    background: none;
+    background-color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.checkBox,.arrowButtons{
+    font-size: 30px;
+    color: #215021b4;
+}
+.fileIcon{
+    font-size: 20px;
+}
+.FolderTree{
+    width: 80%;
+    margin: 20px auto;
+}
+.rct-title,.titleName {
+    padding: 0 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.rct-node-icon {
+    color: #215021b4;
+    font-size: 20px;
+    margin: 0 0px 0 5px;
+}
+.SorCheckbox {
+    color: #215021b4;
+    font-size: 20px;
+    margin: 0 5px 0 5px;
+}
+.sortableTree{
+    height: 400px;
+    margin: 25px 0 0 0;
+}
